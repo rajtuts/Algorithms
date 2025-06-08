@@ -9,14 +9,14 @@ Write a function that returns the minimum amount of total waiting time for all o
 
 Note: you're allowed to mutate the input array.
 
-Sample Input
+Sample Input  
 
-queries = [3, 2, 1, 2, 6]
+queries = [3, 2, 1, 2, 6]  
 
-Sample Output
-17  
+Sample Output  
+17 
+
 Hints
-
 Hint 1
 
 Even though you don't need to return the actual order in which the queries will be executed to minimize the total waiting time, it's important to determine what this order should be. Start by doing so.
