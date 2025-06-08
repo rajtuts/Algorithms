@@ -16,14 +16,14 @@ tree = 1
  / \
 8  9
 ```
-Sample Output
-16
-// The depth of the node with value 2 is 1.
-// The depth of the node with value 3 is 1.
-// The depth of the node with value 4 is 2.
-// The depth of the node with value 5 is 2.
-// Etc...
-// Summing all of these depths yields 16.
+Sample Output  
+16  
+// The depth of the node with value 2 is 1.  
+// The depth of the node with value 3 is 1.  
+// The depth of the node with value 4 is 2.  
+// The depth of the node with value 5 is 2.  
+// Etc...  
+// Summing all of these depths yields 16.  
 
 Hints
 
