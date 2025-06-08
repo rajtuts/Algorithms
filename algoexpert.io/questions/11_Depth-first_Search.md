@@ -1,4 +1,4 @@
-## Depth First Search
+## 11. Depth First Search
 
 #### Problem Statement
 
